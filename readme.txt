@@ -7,3 +7,5 @@ Adding a computer to the spreadsheet:
 How to reset the spreadsheet:
 1. Double-click the reset.bat file
 2. Press any key
+
+If you want to download the latest version of this script, visit https://github.com/notanewbie/InfoGetter
